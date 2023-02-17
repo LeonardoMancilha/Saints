@@ -76,6 +76,12 @@ article > p {
     text-indent: 20px;
 }
 
+p.year {
+    text-align: center;
+    margin-top: 18px;
+    font-size: 1.3rem;
+}
+
 blockquote {
     margin-top: 20px;
 }
