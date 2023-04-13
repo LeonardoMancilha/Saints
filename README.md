@@ -34,7 +34,7 @@ English: Present the story of several Holy Warriors, the lives they led and how 
 
 <p align="center">
 
-![Captura de tela 2023-04-13 125022](https://user-images.githubusercontent.com/74615811/231815986-78a7d212-80e7-465e-b9fd-2402b395572f.png)
+![Imagem do Projeto na versão Mobile](https://user-images.githubusercontent.com/74615811/231815986-78a7d212-80e7-465e-b9fd-2402b395572f.png)
 
 </p>
 
@@ -42,7 +42,7 @@ English: Present the story of several Holy Warriors, the lives they led and how 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 
-![Captura de tela 2023-04-13 124914](https://user-images.githubusercontent.com/74615811/231815963-ed9d055b-d363-4ad8-95c8-4681275def52.png)
+![Imagem do Projeto na versão Web](https://user-images.githubusercontent.com/74615811/231815963-ed9d055b-d363-4ad8-95c8-4681275def52.png)
   
 </p>
 
